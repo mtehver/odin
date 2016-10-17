@@ -15,6 +15,7 @@
 #include "odin/enhancedtrippath.h"
 #include "odin/maneuver.h"
 #include "odin/util.h"
+#include "config.h"
 
 namespace {
 // Text instruction initial capacity
